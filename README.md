@@ -17,7 +17,7 @@ sudo apt-get install git
 ### Once you have installed Git, follow the following steps
 
 ```
-git clone https://github.com/ksbhatti/docker-code-files.git
+git clone https://github.com/vpractice/docker-code-files.git
 ```
 ```
 ls
