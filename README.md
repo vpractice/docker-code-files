@@ -23,7 +23,7 @@ git clone https://github.com/vpractice/docker-code-files.git
 ls
 ```
 ```
-cd docker-slide-code/
+cd docker-code-files/
 ```
 ```
 ls
