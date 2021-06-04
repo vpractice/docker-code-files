@@ -1,6 +1,6 @@
 # Docker-slide-code
 
-This repo contain basic web application folders to use for practicing Dockers for containerizing app
+**This repo contain basic *web application folders* to use for practicing Dockers for containerizing app**
 
 ## Follow the following steps
 
